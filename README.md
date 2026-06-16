@@ -23,6 +23,8 @@ GPA 3.5 | Dean's List (Fall 2022 – Spring 2026)
 - Visualized market trends in Power BI
 - [View on GitHub](https://github.com/paulinamarengo1/pokemon-card-analysis)
 
+![Dashboard Preview](Dashboard_SS.png)
+
 **Dark Patterns in UX Design** *(Team of 4)* | Python, Data Visualization
 - Analyzed 11,000+ e-commerce websites to identify and classify harmful UI practices
 - Built visualizations translating complex findings into actionable insights
