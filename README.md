@@ -1,4 +1,3 @@
-![pfp](pfp.jpg)
 # Business Analyst 
 
 ### Education
