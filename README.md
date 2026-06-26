@@ -1,4 +1,5 @@
-# Business Analyst
+![pfp](pfp.jpg)
+# Business Analyst 
 
 ### Education
 **Purdue University, Mitch Daniels School of Business**
