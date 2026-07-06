@@ -21,7 +21,7 @@ GPA 3.5 | Dean's List (Fall 2022 – Spring 2026)
 - Python BFS crawler collecting 2,000+ matches and 11,000+ players from the HenrikDev API
 - SQL Server analysis of rank-tier differences: aim precision, agent selection, map adaptation
 - Key finding: high elo hits 2x more headshots and adapts picks to maps while low elo doesn't
-- [View on GitHub](https://github.com/paulinamarengo1/VALORANT-High-Elo-VS.-Low-Elo)
+- [View on GitHub](https://github.com/paulinamarengo1/VALORANT-Rank-comparison)
 
 ![Dashboard Preview](VALORANT_Dashboard_SS.png)
 
