@@ -17,7 +17,7 @@ GPA 3.5 | Dean's List (Fall 2022 – Spring 2026)
 
 ### Projects
 
-**Pokémon Card Market Analysis** | Python, SQL, Power BI
+**Valorant Rank-Tier Performance Analysis** | Python, SQL, Power BI
 - Python BFS crawler collecting 2,000+ matches and 11,000+ players from the HenrikDev API
 - SQL Server analysis of rank-tier differences: aim precision, agent selection, map adaptation
 - Key finding: high elo hits 2x more headshots and adapts picks to maps while low elo doesn't
