@@ -7,7 +7,7 @@ GPA 3.5 | Dean's List (Fall 2022 – Spring 2026)
 
 ### Work Experience
 
-**Data Analyst Intern @ Offispa** *(May 2026 – Present)*
+**Data Analyst Intern @ Offispa** *(May 2026 – August 2026)*
 - Built a revenue optimization model in Excel (Solver) with 2,500+ decision variables to help the sales team consistently hit monthly revenue targets
 - Wrote SQL queries to segment customers and identify high-value purchasing patterns that shaped sales strategy
 
