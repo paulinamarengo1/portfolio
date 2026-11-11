@@ -3,7 +3,7 @@
 ### Education
 **Purdue University, Mitch Daniels School of Business**
 B.S. Business Analytics and Information Management — December 2026
-GPA 3.5 | Dean's List (Fall 2022 – Spring 2026)
+GPA 3.6 | Dean's List (Fall 2022 – Spring 2026)
 
 ### Work Experience
 
@@ -36,3 +36,5 @@ GPA 3.5 | Dean's List (Fall 2022 – Spring 2026)
 **Dark Patterns in UX Design** *(Team of 4)* | Python, Data Visualization
 - Analyzed 11,000+ e-commerce websites to identify and classify harmful UI practices
 - Built visualizations translating complex findings into actionable insights
+
+**Contact:** paulinamarengo6@gmail.com | linkedin.com/in/marengopaulina
